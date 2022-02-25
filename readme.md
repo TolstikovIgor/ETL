@@ -24,11 +24,7 @@ ____
 
 #### Урок 4. Проектирование хранилища. Часть 2
 * MPP системы
-   * SE (Shared-Everything)
-   * SD (Shared-Disks)
-   * SN (Shared-Nothing)
-   * CD (Clustered-Disk)
-   * CE (Clustered-Everything)
+   * SE (Shared-Everything), SD (Shared-Disks), SN (Shared-Nothing), CD (Clustered-Disk), CE (Clustered-Everything)
    * Teradata
    * Vertica
    * ClickHouse
