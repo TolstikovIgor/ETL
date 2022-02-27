@@ -8,7 +8,7 @@ ____
 * Модель данных хранилища
 * Реляционная модель данных
 
-#### Урок 2. Архитектура хранилищ
+#### [Урок 2. Архитектура хранилищ](https://github.com/TolstikovIgor/ETL/tree/main/lesson2)
 * Нормализация данных
    * 1 НФ, 2 НФ, 3 НФ, НФБК, 4НФ, 5НФ, 6НФ
 * Архитектура хранилища данных
@@ -22,7 +22,7 @@ ____
 * Концепция Data Vault
 * Концепция Anchor modeling
 
-#### Урок 4. Проектирование хранилища. Часть 2
+#### [Урок 4. Проектирование хранилища. Часть 2](https://github.com/TolstikovIgor/ETL/tree/main/lesson4)
 * MPP системы
    * SE (Shared-Everything), SD (Shared-Disks), SN (Shared-Nothing), CD (Clustered-Disk), CE (Clustered-Everything)
    * Teradata
@@ -32,13 +32,13 @@ ____
    * Data vault
    * Anchor modeling
 
-#### Урок 5. Создание ETL процесса. Часть 1
+#### [Урок 5. Создание ETL процесса. Часть 1](https://github.com/TolstikovIgor/ETL/tree/main/lesson5)
 * Разворачиваем окружение
    * Готовим исходные данные
    * Переносим тестовые данные в source
 * Пишем ETL
 
-#### Урок 6. Создание ETL процесса. Часть 2
+#### [Урок 6. Создание ETL процесса. Часть 2](https://github.com/TolstikovIgor/ETL/tree/main/lesson6)
 * Apache Airflow
 * Разворачиваем окружение
    * Переносим тестовые данные в source
@@ -54,7 +54,7 @@ ____
    * Уникальность
 * Метаданные
 
-#### Урок 8. Курсовой проект
+#### [Урок 8. Курсовой проект](https://github.com/TolstikovIgor/ETL/tree/main/lesson2)
 * Подготовка структуры и данных
 * Что будет конечной целью курсового проекта
 * Полезные ссылки
