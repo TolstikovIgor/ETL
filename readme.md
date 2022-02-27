@@ -54,7 +54,7 @@ ____
    * Уникальность
 * Метаданные
 
-#### [Урок 8. Курсовой проект](https://github.com/TolstikovIgor/ETL/tree/main/lesson2)
+#### [Урок 8. Курсовой проект](https://github.com/TolstikovIgor/ETL/tree/main/lesson8)
 * Подготовка структуры и данных
 * Что будет конечной целью курсового проекта
 * Полезные ссылки
