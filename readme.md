@@ -3,7 +3,7 @@
 #### Факультет Data Engineering
 ____
 #### [Курсовой проект](https://github.com/TolstikovIgor/ETL/tree/main/lesson8)
-Сздание DAG-ов
+Создание DAG-ов
 ___
 #### Урок 1. Введение
 * Цель создания хранилища данных
