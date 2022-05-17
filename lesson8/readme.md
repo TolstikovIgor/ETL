@@ -22,7 +22,13 @@
 
 Хабы будут иметь вид:
 
-create table core.h_orders ( h_order_rk SERIAL PRIMARY KEY, order_id int, source_system string, processed_dttm datetime UNIQUE(order_bk) );
+>     create table core.h_orders ( 
+>        h_order_rk SERIAL PRIMARY KEY,
+>        order_id int,
+>        source_system string,
+>        processed_dttm datetime
+>        UNIQUE(order_bk)
+>      );
 
 Таким образом мы поддерживаем уникальность сурогатного и бизнес ключа.
 
@@ -35,6 +41,6 @@ create table core.h_orders ( h_order_rk SERIAL PRIMARY KEY, order_id int, source
 >         valid_to_dttm datetime,
 >         processed_dttm datetime
 >         (ключ FK для провеки корректности работы рекомендуется)
->         );
+>     );
 
 [lesson8_v2.ipynb](https://drive.google.com/file/d/1OMKHY6mBkkf3BZok7Rsc1iUPxH3G-A_l/view?usp=sharing)
